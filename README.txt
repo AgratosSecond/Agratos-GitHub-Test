@@ -4,4 +4,4 @@
 
 개발자 목록
 1. Agratos
-2. LianS
+2. Lian
